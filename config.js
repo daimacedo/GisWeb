@@ -9,7 +9,7 @@ exports.config = {
     },
   },
   suites: {
-    parte1: ['./tests/todo.spec.js']
+    ficha: ['./tests/buscarFicha.spec.js']
   }
 
 };
