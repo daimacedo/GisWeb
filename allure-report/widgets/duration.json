@@ -1,0 +1,11 @@
+[ {
+  "uid" : "851f9d46ba6dcff1",
+  "name" : "Check if elements are presents",
+  "time" : {
+    "start" : 1537990982165,
+    "stop" : 1537990988304,
+    "duration" : 6139
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

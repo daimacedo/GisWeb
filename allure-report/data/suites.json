@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Parte 1: ",
+    "children" : [ {
+      "name" : "Check if elements are presents",
+      "uid" : "851f9d46ba6dcff1",
+      "parentUid" : "d702e222f5cdaa67938caee4912f4458",
+      "status" : "passed",
+      "time" : {
+        "start" : 1537990982165,
+        "stop" : 1537990988304,
+        "duration" : 6139
+      },
+      "flaky" : true,
+      "parameters" : [ ]
+    } ],
+    "uid" : "d702e222f5cdaa67938caee4912f4458"
+  } ],
+  "name" : "suites"
+}

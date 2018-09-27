@@ -1,0 +1,17 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "Check if elements are presents",
+    "uid" : "851f9d46ba6dcff1",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "start" : 1537990982165,
+      "stop" : 1537990988304,
+      "duration" : 6139
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ],
+  "name" : "timeline"
+}

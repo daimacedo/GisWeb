@@ -1,0 +1,43 @@
+{
+  "uid" : "d92b38579ccdd4fd",
+  "name" : "Check if elements are presents",
+  "fullName" : "Parte 1: .Check if elements are presents",
+  "historyId" : "ac9df28cb02ce48564390cad90bb276e",
+  "time" : {
+    "start" : 1537989260473,
+    "stop" : 1537989267060,
+    "duration" : 6587
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "Parte 1: "
+  }, {
+    "name" : "testClass",
+    "value" : "Parte 1: "
+  }, {
+    "name" : "testMethod",
+    "value" : "Check if elements are presents"
+  }, {
+    "name" : "package",
+    "value" : "Parte 1: "
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d92b38579ccdd4fd.json",
+  "parameterValues" : [ ]
+}

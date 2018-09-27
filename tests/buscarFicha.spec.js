@@ -1,5 +1,6 @@
 var homePage = require('../pages/homePage');
 var EC = protractor.ExpectedConditions;
+var helper = require('../commom/helper')
 
 describe('Parte 1: ', () => {
 
@@ -14,6 +15,8 @@ describe('Parte 1: ', () => {
     browser.wait(EC.presenceOf(homePage.getBtnBuscar()), 5000);
     })
 
-
+    afterEach(() =>{
+      helper.takeShot();
+    })
 
     });
